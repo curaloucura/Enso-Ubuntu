@@ -1,0 +1,14 @@
+This fork is intended to make it easy to install under Ubuntu
+The original source is at https://code.launchpad.net/enso but it haven't been updated for months
+The enso group is now flooded with spam message, so I decided to keep my own work instead
+
+Issues: 
+The set_selection method for commands is not working
+
+
+Todo:
+Find a good open command with learn and unlearn
+Create a map command
+Make banshee, tomboy and other commands default (or easy to find)
+Look on branches and try to find the final implementation of URL based installation of commands (it's not working on my version)
+Make .ensocommands a directory (or a helper) instead of a full file of commands
