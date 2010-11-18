@@ -75,4 +75,6 @@ PROVIDERS.extend(DEFAULT_PLATFORMS)
 PLUGINS = ["enso.contrib.scriptotron",
            "enso.contrib.help",
            "enso.contrib.google",
-           "enso.contrib.evaluate"]
+           "enso.contrib.evaluate",
+           "enso.contrib.open"
+          ]
